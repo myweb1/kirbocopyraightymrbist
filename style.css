@@ -1,0 +1,18 @@
+body  {
+    text-align: center;
+    background-color: rgb(0, 0, 0) !important ; 
+    color: white !important ;
+}
+img {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+button {
+    background: radial-gradient(black,grey);
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
